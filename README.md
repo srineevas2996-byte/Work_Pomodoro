@@ -1,6 +1,6 @@
 # Work Pomodoro 🍅⚡
 
-> A lightweight, cross-platform desktop Pomodoro timer engineered specifically to **break hyperfocus** through persistent looping audio alarms, multi-desktop awareness, automated plain-text session logging, and curated visual analytics.
+> A lightweight, cross-platform desktop Pomodoro timer engineered specifically to **break hyperfocus** through persistent looping audio alarms, multi-desktop awareness, automated plain-text session logging, and curated visual analytics. I came up with concept, I would like to give credit to "Pomotroid" for UI, and "Antigravity" (google) for doing the coding... yup vibe coded project hope it helps!
 
 ---
 
