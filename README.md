@@ -4,6 +4,12 @@
 
 ---
 
+<img width="370" height="547" alt="Screenshot 2026-10-21 124300" src="https://github.com/user-attachments/assets/b8fb766a-9cc2-4987-a58d-42c692cc1b6e" />
+<img width="367" height="550" alt="Screenshot 2026-10-21 124209" src="https://github.com/user-attachments/assets/7ffc6197-878e-4105-a4ea-545fb0118aba" />
+<img width="369" height="548" alt="Screenshot 2026-10-21 124355" src="https://github.com/user-attachments/assets/e316ebc1-1ba6-4216-8d11-2e1c558e3d2f" />
+<img width="369" height="551" alt="Screenshot 2026-10-21 124330" src="https://github.com/user-attachments/assets/45a45184-157e-41a8-a89b-5ae7db58fd57" />
+
+
 ## 🚀 Key Features
 
 ### 🚨 1. Anti-Hyperfocus Interrupter
